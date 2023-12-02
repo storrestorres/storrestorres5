@@ -1,0 +1,26 @@
+{
+  "name": "Cora Rodriquez",
+  "age": 51,
+  "address": {
+    "street": "Zimpes Street",
+    "city": "Cekraew",
+    "state": "MS",
+    "zip": "19043"
+  },
+  "contact": {
+    "phone": "(374) 719-4036",
+    "servicePhone": "800615919"
+  },
+  "birthday": "1977-12-31T04:51:13.006Z",
+  "ip": "123.31.62.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Tap ramzijel aki de bitke uvu vepubuv fo fimhu dicus biehre odofun mowlum fe. Getebcem sodef febe wad pebvideg inu romgo napbidfos veplih woetijom detvo fobco wato zerjuwe mob eh juwilu. Mepeb ofga wo zojleszu gergeago di ermuhuv uwaru ze jivodu buk cilep. Netosa inajodwe ral fofijoc feuvuza tur wun ujomavu ug vadgupo sin ijuse sasiw mifecza.",
+    "bio": "Cezecob jo wappioh taje ralle afoca lumosi gabavmim gelutari fem amubi dej ew wohto gekbiw ovata or. Vadlezon sigev ulwepbom ownaceb junif fo mihjap ma jewne guzis pephouco kujvedo epubik gin jebvej wewoze le. Re secoja mutsi dosutwa hup eflihdi jalezsog kevasiv kuso monfujcod ceikzek vewu fein cu tu zajan."
+  },
+  "apiKey": "eed9315321020a6f09d6ce2ed57f0d8e79ab58cb0401bbbcd89b898908e85cdb",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
