@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Howard",
+  "age": 34,
+  "address": {
+    "street": "Deba Circle",
+    "city": "Pitrolzu",
+    "state": "MA",
+    "zip": "54233"
+  },
+  "contact": {
+    "phone": "(333) 898-2362",
+    "servicePhone": "800922446"
+  },
+  "birthday": "1986-08-08T16:11:17.736Z",
+  "ip": "247.146.86.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuepebi le omasi tubiski tagni fuweb muromos igu ejaalurop selovol bulbunuj ceje vemuz. Op finviel iseit co mar misiede sibak divlan vewuto heve eshumu ajofaku li aheulucu pufi la bi zatroh. Nar zag se kuba bakvem soru jitput eglub zuzjo pec te fokhetzip rag.",
+    "bio": "Segmar jinmi bulasuhu ewaz papmise ocofetu ohieve ero bus zikegi col poj uvuza. No okta en jolevivu labe ba gi hedon guge zaubavoh sov ce esib siju ob sitvah. Zume dasnuzef ciludif cumuzcoh gavoza obu aprol avezi uwubeh lokersuj awurib mahzazub va usa lel otazila gevu aksazlu. Gikkizcol woralhik apiil gifa fumuvwi ewe kad zor bo mecjimmu urahe ar ze kelaptot ma. Vaparar la oleduz jiidi havwine bafwarmo vo ijilagros toler meovu sokhihe fifleroru. Cone ucemeh cemrifif naitasa pahvusep woafce nudavjir oderim cocitpaj wiksufaw mopispaf soir umo in gigebve fihivde. Da vubdi ceos defig ifutafit evcub le acodupe hat zun mehot liz focwilrod fo igke bop wu."
+  },
+  "apiKey": "8d90a4c0df0321e1e50023f3d8de3124ee532cb8fe2aae008e6b9665f3b56c93",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
