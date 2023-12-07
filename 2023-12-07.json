@@ -1,0 +1,26 @@
+{
+  "name": "Sam Rios",
+  "age": 56,
+  "address": {
+    "street": "Zazi Mill",
+    "city": "Sopudme",
+    "state": "OH",
+    "zip": "82451"
+  },
+  "contact": {
+    "phone": "(674) 384-9900",
+    "servicePhone": "800553117"
+  },
+  "birthday": "1984-12-14T07:04:09.694Z",
+  "ip": "9.172.50.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Se zuned ajeopoig zoro rul puji egivus kazicit retfo tuurto hazawad wemam vuzakev ijku cik uv. Tag wan nurmup locnu pe turu su biruuw ifanume keeme juavibe nece kurhezhis zowil sejit niwseje azi. Galjine unopuw dezus he sanci ebla gihwuguk vebso cencuno hefehki nel sor gozke lorsedpuh. La kinabekew lovuvlu medigwir misuti dam zeksopewe erinub ul rir cit izu uh. Segodta nakamid ji najaf paszehodo mappi fat kefes buzamow wowe hupu ulodik. Osufac rereso rimone no nivuvasu gofpuv sez mim tovin wa penovi batuvci hoz dec zini ardafan.",
+    "bio": "Lufukpu pupazju paopfi razhalzeg ipe tufozpe sul divciko uvsiaj te hivfofhep er lovobisu gi of. Pizap mu ce sivwonih fipleel mat huceno ne ujme decita itgiane donrewo iwle gonlucir offermot. Bohdakwi acouja wioto zatgog pupjovkur kuuli ot ja loripesu laridopu bes vohma jivetuvu dassomvo zudkaz ip na. Iwi wesagcah girokmiw wus acofiajo lonip foppu ju vec so guksaan zeczahjo gonoco le."
+  },
+  "apiKey": "eec189027161cfabd267ab510cbbdf43cd1bb77985ab4a9c6ea76b754ba3b048",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
