@@ -1,0 +1,26 @@
+{
+  "name": "Mary Wallace",
+  "age": 28,
+  "address": {
+    "street": "Teos Key",
+    "city": "Uzizja",
+    "state": "OR",
+    "zip": "94036"
+  },
+  "contact": {
+    "phone": "(843) 377-1967",
+    "servicePhone": "800897348"
+  },
+  "birthday": "1991-06-06T05:22:36.157Z",
+  "ip": "196.147.114.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Guzud du hihaj erespi fa noc so wig obu gifabec nosofim rabeage fulte sulnuk luetmuf fa. Mid uha timnavon juakonuj ijezib napa go kec co sizrano dan jezkad podta negi puw tuzta awkaduwe ul. Retfawop ku ki lemi dum pu jurpih toh nojre zekgi saggug efo ora. Halamu coek hodisve ku jaceawu anopigate kal himnedibe onlecna ra ho leb.",
+    "bio": "Ci sip mi ezziknot ifno tuwme gicuas al zace olwako fure ne. Buse woswip su bac vanu vez duccuguk atgigav kefoduju vegag wa novvubi rubu fibtifo ju. Mujse dapmi gugekoj koko nek moz japzotlum asahit wefcugwo bur geoke vi kamle pop ul ase mumivat petnaw."
+  },
+  "apiKey": "8c08d0d72466272224c44a472cebb52666bb6542f7eed5506d16f4f020aa7ffe",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
