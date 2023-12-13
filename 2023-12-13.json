@@ -1,0 +1,26 @@
+{
+  "name": "Sally Ball",
+  "age": 43,
+  "address": {
+    "street": "Bover Terrace",
+    "city": "Bosawez",
+    "state": "DC",
+    "zip": "12937"
+  },
+  "contact": {
+    "phone": "(434) 726-3337",
+    "servicePhone": "800511111"
+  },
+  "birthday": "1992-08-08T05:11:14.464Z",
+  "ip": "9.146.140.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Juv zo la omnouge emebambe soz otunuc to ri lolo humhob ah atojowe. Jaget la sejtamfa hawzizi wevu huwruut ki razuuki genuw raw uvewfi bela avedivu derwertu havuzvoh baztibge ta caapce. Uvokoz ehidawre ase vof muhtaj nugodud zaf paof kirdutvu rave pa ubili kaf mukijwu jakmok. Wabomga olehir bevzoeg zon jet va nunamlu votva dob ag fab femmuja wuhpus mepur ruduffed pawmadip fi. Eci ta mopungo gesuhna omnalge vim sawpar ner ginhur zijdufu vo pinaw iru ruaj fihdu. Diwuz abukutegi giguneh ihojazoga cotijri dejwagag ad zizu elo tuvlur focdah nosri ohi voven dujenca valhefsil dop.",
+    "bio": "Vec vir foca ba giv mim je gifon taej jew savopi zupaoj murun weceki. Pozzuf huvi codoem ajlubi cadwu fomroho afacar gootubuh va pabab hi beidveb okogoim loco. Ze bamucofi pi bavisa bowur esudir rec wangi kahatiz lokanguh osrodeh fuarepuz pap."
+  },
+  "apiKey": "8922cec3c37aa0c717709508b01d88a5a67095291830e417543c83eeb8aef2e1",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
