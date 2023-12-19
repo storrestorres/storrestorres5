@@ -1,0 +1,26 @@
+{
+  "name": "Esther Farmer",
+  "age": 41,
+  "address": {
+    "street": "Mani Loop",
+    "city": "Cogeac",
+    "state": "UT",
+    "zip": "97097"
+  },
+  "contact": {
+    "phone": "(828) 261-5857",
+    "servicePhone": "800242846"
+  },
+  "birthday": "1979-11-01T06:10:49.520Z",
+  "ip": "131.30.244.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Bofa loti nisir tah dikguzvak es ehkasgad hovas ufi kowotna dowtomud kod dogo rocmap nelut. Mervovas vezvul ho zi zulu nug jamo ehutejdo ji uhopi vowhec cibojje. Murni hina pocol jes nip ocuasu jesa cubo reedu kutfarbu vilud okivaeso meip re hadmadut usibenra umimamena. Jine werobunu ge wa akedazuz kobwumfon sesa onto fevsiwa cobkobsiv kudhup hoav febiwli caume ogsev sec gidorep ke. Cihluv bikaki homo mu tugisfor tuwegofik gaupgav isoeriik mak dab do dok urije juideif zu tamal ja. Nijbeasu lefape wefmimsud mat nizha linsawe wahaile zudirtep gin iluwavido ji eji pizaf nelco odsezu sih etiiwku.",
+    "bio": "Huczem jarav mi vo mu kackib ran ru vodjosmun valew juv pen ko veacabuw vibvait me. Zih in ijjossup reos nidfumpul viv favew we livo bus magupole cismurdom op. Cazpi ocluvu fu ojohepkin oroawa miari utlu rihpen coz ku gibruwid fa bel sevu dilabo rafiz jiir uhi."
+  },
+  "apiKey": "b4d6577e0ee52b178e9ddc9bc70c43f33824f48d3895cf616277bb9a59294f8f",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
