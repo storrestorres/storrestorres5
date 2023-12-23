@@ -1,0 +1,26 @@
+{
+  "name": "Sally Edwards",
+  "age": 60,
+  "address": {
+    "street": "Malu Key",
+    "city": "Olaanep",
+    "state": "MD",
+    "zip": "42884"
+  },
+  "contact": {
+    "phone": "(928) 513-5718",
+    "servicePhone": "800888699"
+  },
+  "birthday": "1964-12-08T06:30:29.842Z",
+  "ip": "34.20.240.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Vojenadu vigouzo viga evihib wozjocso akiimo fahbe litzol edepolig duj cemebsel odaordim ug biju uvne nevjag biho. Sowebo wove dadozidup liphacil romha pu cidoh bafnadut ci sojta dengejuh bohtok suzgukib heljezlek cujfa. Ubapip lebe riwud fizci ob pu esiokodis lait anuobbif donde sem gef picran kitpozme ciuhabuc ebmuewu we vu. Nenuk lerakid naseci li bowfir veiji ta hi hadermav ic liuku wijeju. Tu bojhale ge wu ule zifisjag covwujlo eso abu uwoip pufvip zorsur oben wuvrec.",
+    "bio": "Afogi vibalan tenlub kecte ifguvco serop nemak riwlezi lizpef wit ulozi no suv hu mipaj kop vuv opfeed. Pe va ocetopu egfomgi cizi mut kollob juvodliz ilo sapwi rude ona kefcagin. Uhri sot raj fen pahikava nobu na nakonej iju kozwuh jenrufpa lekkufoj gosetlon gowwin rami foluzu."
+  },
+  "apiKey": "40f6ffcff8edb18da6835666ee1d16f04ebfe00db30d28619cd1525aa86b06bf",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
