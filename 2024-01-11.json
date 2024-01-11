@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Klein",
+  "age": 27,
+  "address": {
+    "street": "Kowete Road",
+    "city": "Sevulzu",
+    "state": "NE",
+    "zip": "26226"
+  },
+  "contact": {
+    "phone": "(455) 347-4167",
+    "servicePhone": "800758252"
+  },
+  "birthday": "1993-04-30T18:23:59.631Z",
+  "ip": "60.95.59.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Lu pib ekugaur mifdopwa do naware va convob nafalre zihiwok na leb nepuko bo boz lowo behibom. Uhaojohiv buzojsi aca sopofu wasoisa gubih kef keloh abnotuw diguzzu wocemeb fes uha teka foz odugaug. Mane ku li ifhati hezohor ehucahcez ep ekpono jemuwawe fudecar zakgedboj cozhe pievume. Fo ka tel aki ibo gevzov bun ito ragram zabmubo jire zohawhin fotladvap irorup nigjarrip few agha mo. Dastupdil sapdatuse letedor emo koziknik lahga dew hihrez sufekape zet mez ukiaba nuve hove vej ditek wi co. Emu naoco ifi fuhuh kouj je gaz fus lonuh oseir pelol ospeoc tuf kopup.",
+    "bio": "Owtopha igza ujilow losed jap tulad hebas kor al loasu kiw luefeji. Cewog enouh mi fuzvep tuvbac ocre dihamiv lu zirago ruazebul wotono ruvgavbip. Jazilo riuv nunna hivrok cunror vuvokseb zon ki pi dubzu fulla cizvozej. Midi be adu ica wehkavun va pewpaajo wuhece nak ur ozotuit ke vongapote nizjenuk umpil zocah aco eb. Lupserciz josobri imaboera lip as ce gaobiesa fomi os apihuje fuwrovuh okte ezu nolahoru sizekpo kav hiogha ut. Hesem ki hule be likami adiiva baz mat bemi do opbam hentap umo cutiwnam ik. Jokcu uzu kulizog ralasiz rumomu bif fobgu goja weh zemjez rulonti macbiwbow ko hodulu."
+  },
+  "apiKey": "8ec9458434ab975067de173761aaf26fe30efc6538b3f42a4c5bdff82181c501",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
