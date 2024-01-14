@@ -1,0 +1,26 @@
+{
+  "name": "Sara Hanson",
+  "age": 57,
+  "address": {
+    "street": "Wihi Pass",
+    "city": "Pozdefra",
+    "state": "KY",
+    "zip": "81557"
+  },
+  "contact": {
+    "phone": "(351) 979-5271",
+    "servicePhone": "800177574"
+  },
+  "birthday": "1976-02-22T05:29:52.932Z",
+  "ip": "63.231.173.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Evsujim suvcotos wak ripize tuheuma icu uf bo ji dahjug bo pan ihahouba lempu. Ibakujnal wupoh jo pesag udruhtek ipeci mecur wicwot kuip bofid iddo mipim bo cukicsol lurvobuf. Nikhizih te zik bo hikven tan jokat wi jippalan beotegi ta natref la oz etaca ug ibep wopar. Maoma gok ram gepja pulconana ej donkouv rup lo nomogumi kezejkog obi.",
+    "bio": "Addu ufu vo iwgegbo emidozvi moemgo wecvitaw wobu hezgosku uhafaswo ku olpeli ufibe vuef. Barto zukevud ciwtac liveru bu faftuteg suthupfo me ikoz zikishiw lorvulwi mebwi lococe ved nohgamet dutuj. Bejef mi kuhwed hematof vi im hod lec ha ju ci epaazize giunbi orberdug. Vo herume hel bulefiku ebewez petdehgug vefja honoh rakge ecso imedet wubtannuf bi."
+  },
+  "apiKey": "d1c39450838b61308ee411b2bb8de9e212c8cebb9466b747adb80df6befe5aee",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
