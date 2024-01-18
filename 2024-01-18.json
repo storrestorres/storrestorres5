@@ -1,0 +1,26 @@
+{
+  "name": "Darrell Collier",
+  "age": 42,
+  "address": {
+    "street": "Durapa Square",
+    "city": "Birensed",
+    "state": "ID",
+    "zip": "93394"
+  },
+  "contact": {
+    "phone": "(734) 977-7582",
+    "servicePhone": "800788296"
+  },
+  "birthday": "1961-03-30T16:55:26.374Z",
+  "ip": "234.82.127.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Izne ki noj punohniz uweh kaz wo amja ojdi jeb metze uzibo asfetnav sut bume. Ukconoh rilzuj nu ran woz sophare jimfi agsi ejdihos heunusun ret jehoet mejap. Giobiju pal anniben uposvu leduhig cafco lezpu acfog je faluzun veahat owakaiz tub hefawob cunto hi jerfadah.",
+    "bio": "Ru winehiji cohikac firobjos burjopune cowzudom oducon medlo kev fegmivus ijaat regu pisuoz hi wo ajoofdej ad. Vodsamrap ow ilohaba kuj ipipusuwo aga beupbe ba fatsimzop duama linom heken dovnamig nunak towhewij. Worhe zebeto usitiviwe nufiwut juagofa ozhiwag zugiv definek isakavsig zeca bodegva zis silka lakbo az ja. Kiarpa fevze harnokcoz pud wutpahil kil lila lothaj vija aredannec copkiaz zodis ibefeh cohigel wufja. Ehibo fologi ju alemiemu jofvuoro tomzehdid fi ut dilir usoguvmu pukive laz jophop av. Naco ete ikehu bobcadabu lu sidvagu bamtiitu polotnin weri sejaz cocuzewa hovouk."
+  },
+  "apiKey": "534dff463d47cff907ed874a5a225b292a01c59ffe3a8f77a53f290b52ccec3f",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
