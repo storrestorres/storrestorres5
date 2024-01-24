@@ -1,0 +1,26 @@
+{
+  "name": "Louise Vaughn",
+  "age": 57,
+  "address": {
+    "street": "Dafen Drive",
+    "city": "Ruwsime",
+    "state": "NY",
+    "zip": "92954"
+  },
+  "contact": {
+    "phone": "(704) 558-9471",
+    "servicePhone": "800966512"
+  },
+  "birthday": "1978-09-14T00:23:17.619Z",
+  "ip": "23.223.40.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Suppijam datna asevu caj ge icolewza araiverer wub si ni ijuwago gu hudhetnu val zop. Bik vewcivce cepub dimfilir nacepe sino kine uvkuwje wanumpen korev cuji bo. Ilfuwus egobiwag kewu ozaseco nitebi mesi bi ga fanmu war ti fi bav faca getko bihunma be. Id gi nikled ucahi masduj banikabi boihita dadovem pas uk ufzo agjobtul jebusve jop faeho ugu dow.",
+    "bio": "Dosko enuservag tewujo kocci gakjewli deoju ke aku allu ugobu iw ukiuti. Ep hezgud wo iwi cot kicepe odzemzaz pij ot tepusa bucaha sem tib fud fadiwu ket rebeje zavli. Icice tazorev to sihpe neulucum me anjetwi jozharze kuh jico toji be culuj."
+  },
+  "apiKey": "964e513e37f904b40f5132644f353169d33097b381bf1a39702ff49cf0a25bc1",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
