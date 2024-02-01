@@ -1,0 +1,26 @@
+{
+  "name": "Ronnie Floyd",
+  "age": 28,
+  "address": {
+    "street": "Neefa Parkway",
+    "city": "Cociul",
+    "state": "CT",
+    "zip": "35937"
+  },
+  "contact": {
+    "phone": "(216) 987-1206",
+    "servicePhone": "800955527"
+  },
+  "birthday": "1974-12-22T01:40:30.446Z",
+  "ip": "133.144.181.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Izegahul izvaf gak sef oveled nebedi dahkiniz vopnabmu vi ige pitwo codok. Tos hu pa be dewosha movzad jodi mib itnorbe nimaszo ra zerhorpat ef gagto wamvu si. Bimevi sudiz de imatikfe vocti velluwvum agofo owipowab omba johifa bein dithebiv ducogezu maz.",
+    "bio": "Uwana obibco gireklid ivfazdij dogav zossinwer cacigef moeci uce cef leef luutu sevhewop. Herejbo uprubfel veoj esizimed ojkichuv uniceno da nubzok ocouf enojedvu uma rujurnes ajifitake ubhevi pa kowaj vimuwi. Kipekpol cejzolkam imi fannipge ca zuisroz wizi vadaup luisihih uku ka bahivu."
+  },
+  "apiKey": "d30f9c6cab4a9e65dd3055ed58f47904e40c62e02ddb1d3dc4ff3d057ab9505b",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
