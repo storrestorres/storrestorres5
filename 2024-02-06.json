@@ -1,0 +1,26 @@
+{
+  "name": "Joel Roy",
+  "age": 34,
+  "address": {
+    "street": "Valoke Parkway",
+    "city": "Vubigoj",
+    "state": "OK",
+    "zip": "74380"
+  },
+  "contact": {
+    "phone": "(839) 536-1337",
+    "servicePhone": "800135317"
+  },
+  "birthday": "1995-04-08T07:47:35.830Z",
+  "ip": "57.141.98.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Umbaj tueg koraf hez mu fek vef ab niwu ajo zepse feh mu wumilco secsil ekfan. Geh si pesumik hiojre meces tehcinhe ven ogehi ri getgetzu zuwluj za. Umgewda lolha wozo soadudor as jeulifap siho okuel zatmaur cacjugin za wifgi elkimi. Puvful ku asejo sizrikle onuun rij gemo vi lil lovule opvotla aja hapumluv felmiil voajanec wimviz zemneje. Lariv tuzawuki nowiz er opwe ri gohbevle eje benhe jeet la huokihi. Tareok pawre pitmil vara ewcozir jariz penwa deawu melazi bopzurob vowparnot gemuh.",
+    "bio": "Hafof tesnineza mer pedpiva po neata saruzu weh cupo fubic fo ilsuf fikotgu jaecikoc jetagfor cicdispem. Wata gejorbu cuk zut vijupa nevmeflow uweduhsed ipico vabsot zujabwi ose tohringe firpopo. Uhjuf baomti umbojvec bi cem miedieju utitavo jasapoib owajop foznifme miw jovgih toniras uwezospo rufenbe asenohav lufeh. Li pabfohela gu okrom fuedonu ik um pomla bej dah abocev gaz tecolmo ja saefooku inbek fili polsa. Pigu va abekek zica mierabi jobi siju kah si ac zopgirca iw ritvuno zeweccoz zo. Mun za kobazih jan cud naplesibe okiribbi edazifi viwiva codtapu ucouc tapfishug wuomjid digu nubrej ze apjuna rus."
+  },
+  "apiKey": "37bfef482e5001f2a587c789f1b1f41a580ac81530c75adf827f3fb9da9a44aa",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
