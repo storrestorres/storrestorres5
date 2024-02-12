@@ -1,0 +1,26 @@
+{
+  "name": "Hester Poole",
+  "age": 56,
+  "address": {
+    "street": "Arot River",
+    "city": "Wujivzi",
+    "state": "RI",
+    "zip": "69887"
+  },
+  "contact": {
+    "phone": "(359) 252-7308",
+    "servicePhone": "800322759"
+  },
+  "birthday": "1978-05-13T11:04:24.421Z",
+  "ip": "214.17.222.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Hemeazu tikevme juebi opa hoplar wit fo sosbut mirjet duudase limhawog zevjibzu in ud fipojuf. Izpil ozeji tag kikke unka kacwu hisahop sanavcej gucecuza ver mibah peturuki kucrihder kuc. Azo nutilifip otmi ev talvu vefgivgiw pi piheef nounu nidip gikuwzeh koduvug hut bup pulel mi ka fu.",
+    "bio": "Nogal gu eno vubdabfu zig ejzu ib re vus bikupfe baj nokuce soci. Of injed wo mebbaemi la lic guribi ug oltun jof levfuz aze wa gibirove vecur okekef ma. Votfo wu dofpovhu cuhiv cak cehdiz pilipeh socuus zeozkop afgu joreti hokma se var. Bi watok olwunpoc heniaja vuwomhi gej tifkuur nofatu ibwam si johrij beswe. Elzar ocu afocam fut halgi ipwod zi padut wugillo judzeh cavil ivlun figashi mofo wam uwenu evota vor. Wesveik parfud vo jaf vuzis lefligbe miducit tafwe votloc tuj da bij uh orumu mel fuju kauwi tamida. Toti puatidi avtup hu sadwobab ubuliah gid nudep am loded uvhiwiv ozunere budcan bevwolup gaado ce lum."
+  },
+  "apiKey": "c0f48f3eb465afeb6620e60c5907e96c0ec27e1fcb5ae3713dad2fca4cdcff91",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
