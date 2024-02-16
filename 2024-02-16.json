@@ -1,0 +1,26 @@
+{
+  "name": "Hettie Hansen",
+  "age": 51,
+  "address": {
+    "street": "Bijini Path",
+    "city": "Diwaza",
+    "state": "TX",
+    "zip": "54773"
+  },
+  "contact": {
+    "phone": "(210) 649-1643",
+    "servicePhone": "800165962"
+  },
+  "birthday": "1964-09-04T17:07:00.548Z",
+  "ip": "212.225.13.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Bobmustu sul ole kofnin ul daka ewi wumef feurimec pot amikov dozkig eh ras ponze dawasla wuarasom. Wisisak ka setelsad itmoubo zocer fipel so ec rir eda orogu omiaha pure gi nage dehzubti ora sojfe. Meef hiflag evmof buwitpot waru fatejlen vu jefighal godmul den ce nevta rerwa.",
+    "bio": "Hopapha nahjep sireji nik ed wuvkuka vamug boki ni leko dihve pit. Va dineeg vobleladu abtu gora gamuwri oliet nihuap lego ezuatuge ol vu. Hojujoev wujububuv ka lok herawi bigi but mogavon sijuri ribboon redagfab coz edsisket."
+  },
+  "apiKey": "d51372d0ebea42fdd42dc66ee46ad02f7e4039fcae0f95829fcf48b429b90876",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
