@@ -1,0 +1,26 @@
+{
+  "name": "Juan Rose",
+  "age": 43,
+  "address": {
+    "street": "Nujco River",
+    "city": "Kebotuba",
+    "state": "RI",
+    "zip": "03087"
+  },
+  "contact": {
+    "phone": "(947) 933-1127",
+    "servicePhone": "800488974"
+  },
+  "birthday": "1998-12-31T17:28:52.551Z",
+  "ip": "173.233.179.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Or hog wuwsip juvwutag hepalzok idla ito vacbut cosen wozedfu peftiito dekta ojesi on inko. Wolu eza zisohva enta pa fa nu it rahtubja ulpud ugnotli abwosoj gu kal evcow cociwva. Ceuj hedeze uwocos kulvizcin pi hogibpi nu sazajri va lu kadeas gakeugo dahcorzo rosiwiwi miho coh muumdes jaktovmuk.",
+    "bio": "Uji zemjin vu zofel rihsihkak eclued rablam misol jup pocew vobu ir peopibo raj cebelupi. Zahtifuzu dujij rov pahu jijuk gi zeetko zadmujaso nijub rof dicakziw vil zu huviwo bes. Imu asimepcu ba gabte betecgu zipan ven dibhurahi meuzra homum vihtedu finu apu."
+  },
+  "apiKey": "5d09b00816fbc3c2d1ce4adff27d631369e335e4be2f117bec08671a086c17bd",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
