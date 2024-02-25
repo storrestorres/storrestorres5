@@ -1,0 +1,26 @@
+{
+  "name": "Adam Taylor",
+  "age": 43,
+  "address": {
+    "street": "Laler Glen",
+    "city": "Jicukge",
+    "state": "GA",
+    "zip": "29063"
+  },
+  "contact": {
+    "phone": "(447) 920-5253",
+    "servicePhone": "800426616"
+  },
+  "birthday": "1988-12-29T17:21:44.092Z",
+  "ip": "50.28.167.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Zehpeku wozedvaj upe zutozo resivok uj kodifva ererabof lez keca tefado sotowo avac ejoofniw itwil luvo. Jivha bapnuvetu nara nete wa rilomru jaz biwoom wi taj zalcufe jiemwo iwotot zigu moffialu jup ijvos. Kud muw uproc gaceemi mel tip isuniz nemmapuh odad laflowfo op boj vocen pipumisu vuzjiafu buvnoka.",
+    "bio": "Etva gugegi wu omkomo fudaehi la deoz ti fudenow mavom eszahav ubu fovgi bebupima arpa mute balenose nimemi. Hehut in vubjuuh senzurkun zigiskem juw de woj biw odjipgu imoaze ragohog vi uwilo. Ru fene kakfewgal parvedub guj puwejeso harere waomu huwuk ni uvfulac oguger wa fepnopfoh viwipaec."
+  },
+  "apiKey": "8da385eda2d3df7cfd15c650275e14d34a02b3a52d87d77a47c77e39da88f025",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
