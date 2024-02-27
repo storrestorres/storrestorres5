@@ -1,0 +1,26 @@
+{
+  "name": "Brian Griffin",
+  "age": 23,
+  "address": {
+    "street": "Zawe Parkway",
+    "city": "Fepmena",
+    "state": "OR",
+    "zip": "42949"
+  },
+  "contact": {
+    "phone": "(535) 933-9954",
+    "servicePhone": "800624743"
+  },
+  "birthday": "1969-01-04T05:18:17.341Z",
+  "ip": "22.73.167.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Jijte lor abiekwi ba mutu muwu gop bucir wes duiva ibcuj vohiz. Iruwutam vit uldaf doz tez erare zi sohri lunve ce molbeb dazal. Pebudi zetak besca pak ca jauwiuri ufeehfu secagwa rowo fe kuben neudoup pojit wuvfaor buvu vo. Tojmip di nubac fidwaogi ganawade uveevuuhi gap datene kupe araogufa ajomazus avihed.",
+    "bio": "Zenpifta fennowtet osiicrum ugu zonapu zeszaf netocuv isbi doztagav wibikra ihoweli wulnumre migolgem. Bag kawor pajajon ecahuun puje jazuvopu ihi uv fofrogow puchu nehojem us tegne afka cawzus dipki wovgumwu. Duglapwel refufba pi agoneko hubewu hi ki wevevzuf vezu vomeztub ekambi vuv. Cil wocoh an uwmon fotoci vatuseti gonziham fikup sisul hep kukow cepadebiw ziusdet nuhsowbu coh fusipak."
+  },
+  "apiKey": "9203feb4434ca4812e7a51733cb44fd29720ef892141bb5b8a249a6c9d339a8a",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
